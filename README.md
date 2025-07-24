@@ -9,6 +9,7 @@
 
 ---
 
+## 📜 Table of Contents
 - [A Survey of Self-Evolving Agents: On Path to Artificial Super Intelligence](#a-survey-of-self-evolving-agents-on-path-to-artificial-super-intelligence)
     - [1. Introduction](#1-introduction)
     - [2. Definitions and Foundations](#2-definitions-and-foundations)
