@@ -61,80 +61,88 @@
 
 - [Curriculum Learning for Cooperation in Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2312.11768.pdf)
 
-- [A Survey on Curriculum Learning]
+- [A Survey on Curriculum Learning](https://arxiv.org/abs/2010.13166)
 
-- [Self-Evolving Curriculum for LLM Reasoning]
+- [Self-Evolving Curriculum for LLM Reasoning](https://arxiv.org/abs/2505.14970)
 
-- [Continual lifelong learning with neural networks: A review] 
+- [Continual lifelong learning with neural networks: A review](https://arxiv.org/abs/1802.07569)
 
-- [Lifelong Learning of Large Language Model-based Agents: A Roadmap]
+- [Lifelong Learning of Large Language Model-based Agents: A Roadmap](https://arxiv.org/abs/2501.07278)
 
 ### 3. What to Evolve?
 
 #### 3.1 Models
 
-- [Gödel Agent: A Self-Referential Framework for Agents Recursively Self-Improvement]
+- [Self-Challenging Language Model Agents](https://arxiv.org/abs/2506.01716)
 
-- [Symbolic Learning Enables Self-Evolving Agents]
+- [Self Rewarding Self Improving](https://arxiv.org/abs/2505.08827.pdf)
 
-- [Self-Challenging Language Model Agents]
+- [SELF: Self-Evolution with Language Feedback](https://arxiv.org/abs/2310.00533.pdf)
 
-- [Self-reasoning Language Models]
+- [Self-reasoning Language Models](https://arxiv.org/abs/2505.14116)
 
-- [Self-Rewarding Language Models](https://arxiv.org/abs/2401.10020.pdf)
+- [AgentGen: Enhancing Planning Abilities for Large Language Model based Agent via Environment and Task Generation](https://arxiv.org/abs/2408.00764)
 
-- [Self-Adapting Language Models]
+- [Reflexion: Language Agents with Verbal Reinforcement Learning](https://arxiv.org/abs/2303.11366.pdf)
 
-- [AgentGen: Enhancing Planning Abilities for Large Language Model based Agent via Environment and Task Generation]
+- [AdaPlanner: Adaptive Planning from Feedback with Language Models](https://arxiv.org/abs/2305.16653.pdf)
 
-- [UI-Genie: A Self-Improving Approach for Iteratively Boosting MLLM-based Mobile GUI Agents] `large vision models`
+- [Self-Refine: Iterative Refinement with Self-Feedback](https://arxiv.org/abs/2303.17651.pdf)
+
+- [Learn-by-interact: A Data-Centric Framework for Self-Adaptive Agents in Realistic Environments](https://arxiv.org/abs/2501.10893)
+
+- [DYSTIL: Dynamic Strategy Induction with Large Language Models for Reinforcement Learning](https://arxiv.org/abs/2505.03209.pdf)
 
 #### 3.2 Context
 
 #### 3.2.1 Memory Evolution
 
-- SAGE: Self-evolving Agents with Reflective and Memoryaugmented Abilities
+- [Self-evolving Agents with reflective and memory-augmented abilities](https://arxiv.org/abs/2409.00872)
 
-- Richelieu: Self-Evolving LLM-Based Agents for AI Diplomacy
+- [Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory](https://arxiv.org/abs/2504.19413)
 
-- Mobile-Agent-E: Self-Evolving Mobile Assistant for Complex Tasks
+- [MemInsight: Autonomous Memory Augmentation for LLM Agents](https://arxiv.org/abs/2503.21760)
 
-- A-MEM: Agentic Memory for LLM Agents
+- [Large Language Models Are Semi-Parametric Reinforcement Learning Agents](https://arxiv.org/abs/2306.07929)
 
-- Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory 
+- [Agent Workflow Memory](https://arxiv.org/abs/2409.07429)
 
-- Learn-by-interact: A Data-Centric Framework for Self-Adaptive Agents in Realistic Environments
+- [Richelieu: Self-Evolving LLM-Based Agents for AI Diplomacy](https://arxiv.org/abs/2407.06813)
 
-- Long Term Memory : The Foundation of AI Self-Evolution
-
-- LARGE LANGUAGE MODELS AS OPTIMIZERS
 
 #### 3.2.2 Prompt Optimization
 
-- AutoManual: Constructing Instruction Manuals by LLM Agents via Interactive Environmental Learning
+- [Large Language Models Are Human-Level Prompt Engineers](https://arxiv.org/abs/2211.01910)
 
-- AutoGuide: Automated Generation and Selection of Context-Aware Guidelines for Large Language Model Agents
+- [Large Language Models as Optimizers](https://arxiv.org/abs/2309.03409)
 
-- PreAct: Prediction Enhances Agent's Planning Ability
+- [Automatic Prompt Optimization with "Gradient Descent" and Beam Search](https://arxiv.org/abs/2305.03495)
 
-- EXACT: TEACHING AI AGENTS TO EXPLORE WITH REFLECTIVE-MCTS AND EXPLORATORY LEARNING
+- [PromptAgent: Strategic Planning with Language Models Enables Expert-level Prompt Optimization](https://arxiv.org/abs/2310.16427)
 
-- Agents of Change: Self-Evolving LLM Agents for Strategic Planning
+- [REVOLVE: Optimizing AI Systems by Tracking Response Evolution in Textual Optimization](https://arxiv.org/abs/2412.03092)
 
+- [DSPy: Compiling Declarative Language Model Calls into Self-Improving Pipelines](https://arxiv.org/abs/2310.03714)
 
 #### 3.3 Tools
 
-- Darwin Gödel Machine: Open-Ended Evolution of Self-Improving Agents
+- [Voyager: An Open-Ended Embodied Agent with Large Language Models](https://arxiv.org/abs/2305.16291)
 
-- Self-Evolving Multi-Agent Collaboration Networks for Software Development
+- [Alita: Generalist Agent Enabling Scalable Agentic Reasoning with Minimal Predefinition and Maximal Self-Evolution](https://arxiv.org/abs/2505.20286)
 
-- ATLASS: An Advanced Tool Learning and Selection System
+- [Advanced Tool Learning and Selection System (ATLASS): A Closed-Loop Framework Using LLM](https://arxiv.org/abs/2503.10071)
 
-- Agentic Skill Discovery
+- [From Exploration to Mastery: Enabling LLMs to Master Tools via Self-Driven Interactions](https://arxiv.org/abs/2410.08197)
 
-- From Exploration to Mastery: Enabling LLMs to Master Tools via Self-Driven Interactions
+- [ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs](https://arxiv.org/abs/2307.16789)
 
-- ToolGen: Unified Tool Retrieval and Calling via Generation
+- [ToolGen: Unified Tool Retrieval and Calling via Generation](https://arxiv.org/abs/2410.03439)
+
+- [AgentSquare: Automatic LLM Agent Search in Modular Design Space](https://arxiv.org/abs/2410.06153.pdf)
+
+- [Retrieval Models Aren't Tool-Savvy: Benchmarking Tool Retrieval for Large Language Models](https://arxiv.org/abs/2503.01763)
+
+- [Towards Completeness-Oriented Tool Retrieval for Large Language Models](https://arxiv.org/abs/2405.16089)
 
 #### 3.4 Architecture
 
