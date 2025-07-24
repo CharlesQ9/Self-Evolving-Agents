@@ -301,80 +301,99 @@
 
 ### 6.1 General Domain Evolution
 
-- Mobile-Agent-E: Self-Evolving Mobile Assistant for Complex Tasks
+- [Mobile-Agent-E: Self-Evolving Mobile Assistant for Complex Tasks](https://arxiv.org/abs/2501.11733)
 
-- WebRL: Training LLM Web Agents via Self-Evolving Online Curriculum Reinforcement Learning
+- [WebRL: Training LLM Web Agents via Self-Evolving Online Curriculum Reinforcement Learning](https://arxiv.org/abs/2411.02337)
 
-- WebEvolver: Enhancing Web Agent Self-Improvement with Coevolving World Model
+- [WebEvolver: Enhancing Web Agent Self-Improvement with Coevolving World Model](https://arxiv.org/abs/2504.21024)
 
-- MobileSteward: Integrating Multiple App‑Oriented Agents with Self‑Evolution
+- [MobileSteward: Integrating Multiple App‑Oriented Agents with Self‑Evolution](https://arxiv.org/abs/2502.16796)
 
-- Generative Agents: Interactive Simulacra of Human Behavior
+- [Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/abs/2304.03442)
 
-- Intelligent Virtual Assistants with LLM-based Process Automation
+- [Intelligent Virtual Assistants with LLM-based Process Automation](https://arxiv.org/abs/2312.06677)
 
-- UI-Genie: A Self-Improving Approach for Iteratively Boosting MLLM-based Mobile GUI Agents
+- [UI-Genie: A Self-Improving Approach for Iteratively Boosting MLLM-based Mobile GUI Agents](https://arxiv.org/abs/2505.21496)
 
 ### 6.2 Specialized Domain Evolution
 
-- Arxiv Copilot: A Self-Evolving and Efficient LLM System for Personalized Academic Assistance
+- [Paper Copilot: A Self-Evolving and Efficient LLM System for Personalized Academic Assistance](https://arxiv.org/abs/2409.04593)
 
-- Richelieu: Self-Evolving LLM-Based Agents for AI Diplomacy
+- [Richelieu: Self-Evolving LLM-Based Agents for AI Diplomacy](https://arxiv.org/abs/2407.06813)
 
-- AlphaEvolve: A Learning Framework to Discover Novel Alphas in Quantitative Investment
+- [AlphaEvolve: A Learning Framework to Discover Novel Alphas in Quantitative Investment](https://arxiv.org/abs/2103.16196)
 
-- A Self-Evolving Framework for Multi-Agent Medical Consultation Based on Large Language Models
+- [MDTeamGPT: A Self-Evolving LLM-based Multi-Agent Framework for Multi-Disciplinary Team Medical Consultation](https://arxiv.org/abs/2503.13856)
 
-- Self-Evolving Multi-Agent Simulations for Realistic Clinical Interactions
+- [Self-Evolving Multi-Agent Simulations for Realistic Clinical Interactions](https://arxiv.org/abs/2503.22678)
 
-- LLMs Can Simulate Standardized Patients via Agent Coevolution
+- [LLMs Can Simulate Standardized Patients via Agent Coevolution](https://arxiv.org/abs/2412.11716)
 
-- SEW: Self-Evolving Agentic Workflows for Automated Code Generation
+- [SEW: Self-Evolving Agentic Workflows for Automated Code Generation](https://arxiv.org/abs/2505.18646)
 
-- AgentCoder: Multi-Agent-based Code Generation with Iterative Testing and Optimisation
+- [AgentCoder: Multi-Agent-based Code Generation with Iterative Testing and Optimisation](https://arxiv.org/abs/2312.13010)
 
-- A Self-Improving Coding Agent
+- [A Self-Improving Coding Agent](https://arxiv.org/abs/2504.15228)
 
-- QuantAgent: Seeking Holy Grail in Trading by Self-Improving Large Language Model
+- [QuantAgent: Seeking Holy Grail in Trading by Self-Improving Large Language Model](https://arxiv.org/abs/2402.03755)
 
-- Voyager: An Open-Ended Embodied Agent with Large Language Models
+- [Voyager: An Open-Ended Embodied Agent with Large Language Models](https://arxiv.org/abs/2305.16291)
 
-- Learning to Be A Doctor: Searching for Effective Medical Agent Architectures
+- [Learning to Be A Doctor: Searching for Effective Medical Agent Architectures](https://arxiv.org/abs/2504.11301)
 
-- Agent Hospital: A Simulacrum of Hospital with Evolvable Medical Agents 
+- [Agent Hospital: A Simulacrum of Hospital with Evolvable Medical Agents](https://arxiv.org/abs/2405.02957)
 
-- Simulating Classroom Education with LLM-Empowered Agents
+- [Simulating Classroom Education with LLM-Empowered Agents](https://arxiv.org/abs/2406.19226)
 
-- One Size Doesn’t Fit All: A Personalized Conversational Tutoring Agent for Mathematics Instruction 
+- [One Size Doesn’t Fit All: A Personalized Conversational Tutoring Agent for Mathematics Instruction](https://arxiv.org/abs/2502.12633) 
   
 ### 8. Future Directions
 
 #### 8.1 Personalize AI Agents
 
-- How can AI agent accurately capture users' unique behavioral patterns or preferences？
 
-- Personalize Your LLM: Fake it then Align it
+- [Personalization of Large Language Models: A Survey](https://arxiv.org/abs/2411.00027)
 
-- Personalization of Large Language Models: A Survey
+- [AutoPal: Autonomous Adaptation to Users for Personal AI Companionship](https://arxiv.org/abs/2406.13960)
+
+- [Personalize Your LLM: Fake it then Align it](https://arxiv.org/abs/2503.01048)
+
+- [A Survey of Personalization: From RAG to Agent](https://arxiv.org/abs/2504.10147)
+
+- [ROUGE: A Package for Automatic Evaluation of Summaries](https://aclanthology.org/W04-1013/)
+
+- [Bleu: a Method for Automatic Evaluation of Machine Translation](https://aclanthology.org/P02-1040/)
 
 #### 8.2 Generalization
 
-- Scalable agent architecture & scaling vs. performance trade-off
+- [Position: Scaling LLM Agents Requires Asymptotic Analysis with LLM Primitives](https://arxiv.org/abs/2502.04358)
 
-- Position: Scaling LLM Agents Requires Asymptotic Analysis with LLM Primitives
 
-- Safety, Alignment and Control
+- [Automating Safety Enhancement for LLM-based Agents with Synthetic Risk Scenarios](https://arxiv.org/abs/2505.17735v1)
 
-- Automating Safety Enhancement for LLM-based Agents with Synthetic Risk Scenarios
+- [TrustAgent: Towards Safe and Trustworthy LLM-based Agents](https://arxiv.org/abs/2402.01586)
 
-- TrustAgent: Towards Safe and Trustworthy LLM-based Agents
-
-- Foundational Challenges in Assuring Alignment and Safety of Large Language Models
+- [Foundational Challenges in Assuring Alignment and Safety of Large Language Models](https://arxiv.org/abs/2404.09932)
 
 #### 8.3 Safe and Controllable Agents
 
+- [Automating Safety Enhancement for LLM-based Agents with Synthetic Risk Scenarios](https://arxiv.org/abs/2505.17735v1)
+
+- [AgentDAM: Privacy Leakage Evaluation for Autonomous Web Agents](https://arxiv.org/abs/2503.09780)
+
+- [Foundational Challenges in Assuring Alignment and Safety of Large Language Models](https://arxiv.org/abs/2404.09932)
+
+- [Unveiling Privacy Risks in LLM Agent Memory](https://arxiv.org/abs/2502.13172)
+
 #### 8.4 Ecosystems of Multi-Agents
 
+- [MDTeamGPT: A Self-Evolving LLM-based Multi-Agent Framework for Multi-Disciplinary Team Medical Consultation](https://arxiv.org/abs/2503.13856)
+
+- [Collab-Overcooked: Benchmarking and Evaluating Large Language Models as Collaborative Agents](https://arxiv.org/abs/2502.20073)
+
+- [Self-Evolving Multi-Agent Collaboration Networks for Software Development](https://arxiv.org/abs/2410.16946)
+
+- [MultiAgentBench: Evaluating the Collaboration and Competition of LLM agents](https://arxiv.org/abs/2503.01935)
 
 ### Others
 
