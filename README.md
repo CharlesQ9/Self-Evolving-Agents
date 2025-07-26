@@ -1,5 +1,6 @@
 # <img src="figures/evolution.png" alt="Example Figure" width="50" height="50" /> A Survey of Self-Evolving Agents: On Path to Artificial Super Intelligence
 
+# <img src="figures/develop.jpg" alt="Example Figure" width="600" height="120" />
 
 <!-- omit in toc -->
 ## 📢 Updates
