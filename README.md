@@ -406,7 +406,7 @@
  
 ## 🔎 Citation
 
-```
+```bibtex
 @misc{gao2025surveyselfevolvingagentspath,
       title={A Survey of Self-Evolving Agents: On Path to Artificial Super Intelligence}, 
       author={Huan-ang Gao and Jiayi Geng and Wenyue Hua and Mengkang Hu and Xinzhe Juan and Hongzhang Liu and Shilong Liu and Jiahao Qiu and Xuan Qi and Yiran Wu and Hongru Wang and Han Xiao and Yuhang Zhou and Shaokun Zhang and Jiayi Zhang and Jinyu Xiang and Yixiong Fang and Qiwen Zhao and Dongrui Liu and Qihan Ren and Cheng Qian and Zhenghailong Wang and Minda Hu and Huazheng Wang and Qingyun Wu and Heng Ji and Mengdi Wang},
