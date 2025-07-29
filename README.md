@@ -406,6 +406,8 @@
  
 ## 🔎 Citation
 
+To cite the research [paper](https://arxiv.org/abs/2507.21046), you could use the following BibTeX entries. 
+
 ```bibtex
 @misc{gao2025surveyselfevolvingagentspath,
       title={A Survey of Self-Evolving Agents: On Path to Artificial Super Intelligence}, 
