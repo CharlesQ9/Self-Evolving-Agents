@@ -111,6 +111,7 @@
 
 - [Richelieu: Self-Evolving LLM-Based Agents for AI Diplomacy](https://arxiv.org/abs/2407.06813)
 
+- [Memory OS of AI Agent](https://arxiv.org/abs/2506.06326)
 
 #### 3.2.2 Prompt Optimization
 
