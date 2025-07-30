@@ -350,6 +350,39 @@
 - [One Size Doesn’t Fit All: A Personalized Conversational Tutoring Agent for Mathematics Instruction](https://arxiv.org/abs/2502.12633)
 
 ### 7. Evaluation of Self-evolving Agents
+- [DSBench](https://arxiv.org/pdf/2409.07703)
+- ScienceAgentBench
+- MLE-Bench
+- SWE-bench
+- OSWorld
+- Mobile-Eval-E
+- WebShop
+- WebArena
+- WebWalkerOA
+- ST-WebAgentBench
+- xbench
+- BrowseComp
+- Agent-SafetyBench
+- LifelongAgentBench
+- AgentBench
+- GAIA
+- TheAgentCompany
+- PlanBench
+- Natural Plan
+- ACPBench
+- AppBench
+- ToolBench
+- ToolSandbox
+- Seal-Tools
+- API-Bank
+- T-Eval
+- Terminal-Bench
+- AceBench
+- LTMBenchmark
+- StoryBench
+- MemoryAgentBench
+- MultiAgentBench
+- SwarmBench
 #### 7.1 Evaluation Goal and Metrics
 #### 7.2 Evaluation Paradigm
   
