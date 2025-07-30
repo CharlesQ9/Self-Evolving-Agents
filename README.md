@@ -347,7 +347,11 @@
 
 - [Simulating Classroom Education with LLM-Empowered Agents](https://arxiv.org/abs/2406.19226)
 
-- [One Size Doesn’t Fit All: A Personalized Conversational Tutoring Agent for Mathematics Instruction](https://arxiv.org/abs/2502.12633) 
+- [One Size Doesn’t Fit All: A Personalized Conversational Tutoring Agent for Mathematics Instruction](https://arxiv.org/abs/2502.12633)
+
+### 7. Evaluation of Self-evolving Agents
+#### 7.1 Evaluation Goal and Metrics
+#### 7.2 Evaluation Paradigm
   
 ### 8. Future Directions
 
