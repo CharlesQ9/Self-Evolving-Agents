@@ -39,11 +39,11 @@
         - [6.1 General Domain Evolution](#61-general-domain-evolution)
         - [6.2 Specialized Domain Evolution](#62-specialized-domain-evolution)
     - [7. Evaluation of Self-evolving Agents](#7-evaluation-of-self-evolving-agents)
-        - [7.1 Evaluation Goal and Metrics](#71-evaluation-goal-and-metrics)
+        <!-- - [7.1 Evaluation Goal and Metrics](#71-evaluation-goal-and-metrics)
         - [7.2 Evaluation Paradigm](#72-evaluation-paradigm)
             - [7.2.1 Static Assessment](#721-static-assessment)
             - [7.2.2 Short-Horizon Adaptive Assessment](#722-short-horizon-adaptive-assessment)
-            - [7.2.3 Long-Horizon Lifelong Learning Ability Assessment](#723-long-horizon-lifelong-learning-ability-assessment)
+            - [7.2.3 Long-Horizon Lifelong Learning Ability Assessment](#723-long-horizon-lifelong-learning-ability-assessment) -->
     - [8. Future Directions](#8-future-directions)
 
 
@@ -351,42 +351,75 @@
 - [One Size Doesn’t Fit All: A Personalized Conversational Tutoring Agent for Mathematics Instruction](https://arxiv.org/abs/2502.12633)
 
 ### 7. Evaluation of Self-evolving Agents
-- [DSBench](https://arxiv.org/pdf/2409.07703)
-- ScienceAgentBench
-- MLE-Bench
-- SWE-bench
-- OSWorld
-- Mobile-Eval-E
-- WebShop
-- WebArena
-- WebWalkerOA
-- ST-WebAgentBench
-- xbench
-- BrowseComp
-- Agent-SafetyBench
-- LifelongAgentBench
-- AgentBench
-- GAIA
-- TheAgentCompany
-- PlanBench
-- Natural Plan
-- ACPBench
-- AppBench
-- ToolBench
-- ToolSandbox
-- Seal-Tools
-- API-Bank
-- T-Eval
-- Terminal-Bench
-- AceBench
-- LTMBenchmark
-- StoryBench
-- MemoryAgentBench
-- MultiAgentBench
-- SwarmBench
-#### 7.1 Evaluation Goal and Metrics
-#### 7.2 Evaluation Paradigm
-  
+
+- [Mind2Web 2: Evaluating Agentic Search with Agent-as-a-Judge](https://arxiv.org/abs/2506.21506.pdf)
+
+- [MCP-Universe: Benchmarking Large Language Models with Real-World Model Context Protocol Servers](https://arxiv.org/abs/2508.14704.pdf)
+
+- [DSBENCH: HOW FAR ARE DATA SCIENCE AGENTS FROM BECOMING DATA SCIENCE EXPERTS?](https://arxiv.org/pdf/2409.07703) `ICLR 2025`
+
+- [ScienceAgentBench: Toward Rigorous Assessment of Language Agents for Data-Driven Scientific Discovery](https://arxiv.org/abs/2410.05080) `ICLR 2025` [Code](https://github.com/OSU-NLP-Group/ScienceAgentBench)
+
+- [AppBench: Planning of Multiple APIs from Various APPs for Complex User Instruction](https://aclanthology.org/2024.emnlp-main.856.pdf) `EMNLP 2025`
+
+- [MLE-bench: Evaluating Machine Learning Agents on Machine Learning Engineering](https://arxiv.org/abs/2410.07095)
+
+- [SWE-bench: Can Language Models Resolve Real-World GitHub Issues?](https://arxiv.org/abs/2310.06770.pdf)
+
+- [OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments](https://arxiv.org/abs/2404.07972)
+
+- [Mobile-Agent-E: Self-Evolving Mobile Assistant for Complex Tasks](https://arxiv.org/abs/2501.11733.pdf)
+
+- [WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents](https://arxiv.org/abs/2207.01206.pdf)
+
+- [WebArena: A Realistic Web Environment for Building Autonomous Agents](https://arxiv.org/abs/2307.13854.pdf)
+
+- [WebWalker: Benchmarking LLMs in Web Traversal](https://arxiv.org/abs/2501.07572.pdf)
+
+- [ST-WebAgentBench: A Benchmark for Evaluating Safety and Trustworthiness in Web Agents](https://arxiv.org/abs/2410.06703.pdf)
+
+- [xbench: Tracking Agents Productivity Scaling with Profession-Aligned Real-World Evaluations](https://www.arxiv.org/abs/2506.13651.pdf)
+
+- [BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents](https://arxiv.org/abs/2504.12516.pdf)
+
+- [Agent-SafetyBench: Evaluating the Safety of LLM Agents](https://arxiv.org/abs/2412.14470.pdf)
+
+- [LifelongAgentBench: Evaluating LLM Agents as Lifelong Learners](https://arxiv.org/abs/2505.11942.pdf)
+
+- [AgentBench: Evaluating LLMs as Agents](https://arxiv.org/abs/2308.03688.pdf)
+
+- [GAIA: a benchmark for General AI Assistants](https://arxiv.org/abs/2311.12983.pdf)
+
+- [TheAgentCompany: Benchmarking LLM Agents on Consequential Real World Tasks](https://arxiv.org/abs/2412.14161.pdf)
+
+- [ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs](https://arxiv.org/abs/2307.16789.pdf) [code](https://github.com/OpenBMB/ToolBench)
+
+- [Seal-Tools: Self-Instruct Tool Learning Dataset for Agent Tuning and Detailed Benchmark](https://arxiv.org/abs/2405.08355)
+
+- [API-Bank: A Comprehensive Benchmark for Tool-Augmented LLMs](https://aclanthology.org/2023.emnlp-main.187/)
+
+- [T-Eval: Evaluating the Tool Utilization Capability of Large Language Models Step by Step](https://aclanthology.org/2024.acl-long.515/) `ACL 2024`
+
+- [ACEBench: Who Wins the Match Point in Tool Usage?](https://arxiv.org/abs/2501.12851.pdf)
+
+- [StoryBench: A Multifaceted Benchmark for Continuous Story Visualization](https://arxiv.org/abs/2308.11606.pdf)
+
+- [MultiAgentBench: Evaluating the Collaboration and Competition of LLM agents](https://arxiv.org/abs/2503.01935.pdf) `ACL 2025`
+
+- [Benchmarking LLMs' Swarm intelligence](https://arxiv.org/abs/2505.04364.pdf)
+
+- [Beyond Prompts: Dynamic Conversational Benchmarking of Large Language Models](https://arxiv.org/html/2409.20222v2.pdf)
+
+- [ACPBench: Reasoning about Action, Change, and Planning](https://arxiv.org/abs/2410.05669.pdf)
+
+- [PlanBench: An Extensible Benchmark for Evaluating Large Language Models on Planning and Reasoning about Change](https://arxiv.org/abs/2206.10498.pdf)
+
+
+<!-- #### 7.1 Evaluation Goal and Metrics
+
+#### 7.2 Evaluation Benchmarks -->
+
+
 ### 8. Future Directions
 
 #### 8.1 Personalize AI Agents
