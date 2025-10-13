@@ -221,6 +221,8 @@
 
 #### 5.1 Reward-based Self-Evolution
 
+- [Vision-Zero: Scalable VLM Self-Improvement via Strategic Gamified Self-Play](https://www.arxiv.org/abs/2509.25541)
+
 - [Self-Refine: Iterative Refinement with Self-Feedback](https://arxiv.org/abs/2303.17651.pdf)
 
 - [Training Language Models to Self-Correct via Reinforcement Learning](https://arxiv.org/abs/2409.12917.pdf)
