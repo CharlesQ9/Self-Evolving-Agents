@@ -75,6 +75,8 @@
 
 #### 3.1 Models
 
+- [Vision-Zero: Scalable VLM Self-Improvement via Strategic Gamified Self-Play](https://www.arxiv.org/abs/2509.25541)
+
 - [Self-Challenging Language Model Agents](https://arxiv.org/abs/2506.01716)
 
 - [Self Rewarding Self Improving](https://arxiv.org/abs/2505.08827.pdf)
@@ -220,6 +222,8 @@
 ### 5. How to Evolve?
 
 #### 5.1 Reward-based Self-Evolution
+
+- [Vision-Zero: Scalable VLM Self-Improvement via Strategic Gamified Self-Play](https://www.arxiv.org/abs/2509.25541)
 
 - [Self-Refine: Iterative Refinement with Self-Feedback](https://arxiv.org/abs/2303.17651.pdf)
 
