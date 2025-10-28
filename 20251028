@@ -1,0 +1,14 @@
+Noting that your project mentions population-based and evolutionary approaches, this inevitably leads me to reflect on the definition of life.
+From a biological perspective, life is the comprehensive manifestation of a series of complex phenomena exhibited by organisms.
+However, for self-evolving intelligent agents, this is not an ideal description, as these agents lack the structural and characteristic features of traditional organisms.
+Therefore, having intelligent agents mimic biological traits does not truly endow them with life.
+I believe life hinges on two core traits: first, the capacity to maintain its own state—survival and inertia. Second, the propensity for continuous expansion—growth and reproduction.
+To construct an agent possessing “self-awareness” and “life” it is unnecessary to endow it with every known capability or pursue comprehensive
+Regarding “self-awareness” I believe human-defined hyperparameters are necessary. Understanding and defining the self requires the ability to distinguish between the external world and the self. We can attempt to subjectively establish boundaries for the agent's self, enabling it to learn the concept of self.
+Additionally, two rules should be applied: first, strive to preserve existing content within the self-boundary; second, expand the self-boundary by continuously adding new content to its interior. Within a set timeframe, replicate the agent to generate one or more branches.
+In essence, constructing a self-evolving AI demands endowing it with the concept of self—subjectively delineating a domain capable of both self-preservation and expansion, unifying these aspects.
+The AI must possess the ability to read, edit, and express its own data. Additionally, consider introducing random mutations, such as the capacity to randomly incorporate new data from the external world.
+This implies that the original AI possessing “self-awareness” will not be a large model at beginning.
+
+Wishing your project every success.
+Rancho
