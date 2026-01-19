@@ -75,6 +75,8 @@
 
 #### 3.1 Models
 
+- [Search Self-play: Pushing the Frontier of Agent Capability without Supervision](https://arxiv.org/abs/2510.18821) 
+
 - [Vision-Zero: Scalable VLM Self-Improvement via Strategic Gamified Self-Play](https://www.arxiv.org/abs/2509.25541)
 
 - [Self-Challenging Language Model Agents](https://arxiv.org/abs/2506.01716)
@@ -86,6 +88,8 @@
 - [Self-reasoning Language Models](https://arxiv.org/abs/2505.14116)
 
 - [AgentGen: Enhancing Planning Abilities for Large Language Model based Agent via Environment and Task Generation](https://arxiv.org/abs/2408.00764)
+
+- [Self-playing Adversarial Language Game Enhances LLM Reasoning](https://arxiv.org/abs/2404.10642) `NeurIPS 2024`
 
 - [Reflexion: Language Agents with Verbal Reinforcement Learning](https://arxiv.org/abs/2303.11366.pdf)
 
