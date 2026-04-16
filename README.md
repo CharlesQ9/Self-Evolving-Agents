@@ -287,6 +287,8 @@
 
 - [Darwin Godel Machine: Open-Ended Evolution of Self-Improving Agents](https://arxiv.org/abs/2505.22954.pdf)
 
+- [CORAL: Towards Autonomous Multi-Agent Evolution for Open-Ended Discovery](https://arxiv.org/abs/2604.01658)
+
 - [Nature-Inspired Population-Based Evolution of Large Language Models](https://arxiv.org/abs/2503.01155.pdf)
 
 - [Self-Play Fine-Tuning Converts Weak Language Models to Strong Language Models](https://arxiv.org/abs/2401.01335)
