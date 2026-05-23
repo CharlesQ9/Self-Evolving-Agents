@@ -462,6 +462,8 @@
 
 - [Unveiling Privacy Risks in LLM Agent Memory](https://arxiv.org/abs/2502.13172)
 
+- [Safety in Embodied AI: A Survey of Risks, Attacks, and Defenses](https://arxiv.org/abs/2605.02900)
+
 #### 8.4 Ecosystems of Multi-Agents
 
 - [MDTeamGPT: A Self-Evolving LLM-based Multi-Agent Framework for Multi-Disciplinary Team Medical Consultation](https://arxiv.org/abs/2503.13856)
