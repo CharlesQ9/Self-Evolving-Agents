@@ -303,6 +303,8 @@
 
 - [Self-Evolving Multi-Agent Simulations for Realistic Clinical Interactions](https://arxiv.org/abs/2503.22678)
 
+- [Implicit Behavioral Alignment of Language Agents in High-Stakes Crowd Simulations](https://arxiv.org/abs/2509.16457) `EMNLP 2025`
+
 
 ### 6. Where to Evolve?
 
