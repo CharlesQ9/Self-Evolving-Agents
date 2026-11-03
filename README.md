@@ -101,6 +101,8 @@
 
 #### 3.2.1 Memory Evolution
 
+- [Learning from Repair Experience: Self-Evolving Agents for Automated Vulnerability Repair](https://arxiv.org/abs/2605.30105)
+
 - [Self-evolving Agents with reflective and memory-augmented abilities](https://arxiv.org/abs/2409.00872)
 
 - [Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory](https://arxiv.org/abs/2504.19413)
