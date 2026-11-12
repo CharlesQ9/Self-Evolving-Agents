@@ -177,6 +177,8 @@
 
 - [ReMA: Learning to Meta-think for LLMs with Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2503.09501.pdf)
 
+- [PluginRSI: Recursive Improvement of Agent Harnesses with Reusable Plugins](https://arxiv.org/abs/2609.32423.pdf)
+
 ### 4. When to Evolve?
 
 #### 4.1 Intra-test-Time Self-Evolution
